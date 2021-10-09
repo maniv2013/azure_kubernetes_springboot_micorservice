@@ -1,3 +1,10 @@
+variable "subscription_id" {}
+variable "client_id" {}
+variable "tenant_id" {}
+variable "client_secret" {
+  description = "az service principal secret"
+}
+
 variable "resource_group_name" {
   type        = string
   description = "RG name in Azure"
