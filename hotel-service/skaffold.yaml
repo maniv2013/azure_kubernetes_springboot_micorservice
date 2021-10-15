@@ -1,0 +1,16 @@
+apiVersion: skaffold/v1beta14
+kind: config
+build:
+  artifacts:
+    - image: manisebastine/com.jumeirah.k8s.poc
+      jib:
+        args: ['-DskipTests']
+deploy:
+  kustomize:
+    path: kustomize/base
+
+profiles:
+  - name: qa
+    deploy:
+      kustomize:
+        path: kustomize/qa
