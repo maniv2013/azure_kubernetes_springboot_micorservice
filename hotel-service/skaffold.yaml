@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta14
 kind: config
 build:
   artifacts:
-    - image: manisebastine/com.jumeirah.k8s.poc
+    - image: jklm2021acr.azurecr.io/com.jumeirah.k8s.poc
       jib:
         args: ['-DskipTests']
 deploy:

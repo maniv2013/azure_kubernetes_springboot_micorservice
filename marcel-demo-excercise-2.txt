@@ -1,0 +1,10 @@
+{
+  "canDelegate": null,
+  "id": "/subscriptions/1b836434-19c3-46b2-bf6f-10f92544025d/providers/Microsoft.Authorization/roleAssignments/839514b3-b86f-4523-86e5-6d0264f94558",
+  "name": "839514b3-b86f-4523-86e5-6d0264f94558",
+  "principalId": "ca6dcb1e-4678-4a75-8ef8-520d4aa182b0",
+  "principalType": "ServicePrincipal",
+  "roleDefinitionId": "/subscriptions/1b836434-19c3-46b2-bf6f-10f92544025d/providers/Microsoft.Authorization/roleDefinitions/b24988ac-6180-42a0-ab88-20f7382dd24c",
+  "scope": "/subscriptions/1b836434-19c3-46b2-bf6f-10f92544025d",
+  "type": "Microsoft.Authorization/roleAssignments"
+}

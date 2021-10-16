@@ -17,7 +17,7 @@ spec:
         app: hotel-service
     spec:
       containers:
-      - image: manisebastine/com.jumeirah.k8s.poc
+      - image: jklm2021acr.azurecr.io/com.jumeirah.k8s.poc
         name: com-jumeirah-k8s-poc-8vfn7
         resources:
           requests:

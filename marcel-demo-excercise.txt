@@ -1,0 +1,15 @@
+{
+  "appId": "063672f5-2114-4155-baf8-657e62bc9761",
+  "displayName": "aks-getting-started-sp",
+  "name": "http://aks-getting-started-sp",
+  "password": "b81w9dNMNVtcsZbHBaaC-sVlEcxDeS~Cxw",
+  "tenant": "6dbf3072-0199-4a96-b666-93fcf5109771"
+}
+
+
+{
+  "appId": "063672f5-2114-4155-baf8-657e62bc9761",
+  "name": "aks-getting-started-sp",
+  "password": "LPU~c5lk0jHp0brSawW2rEK5_K0RLs7_j6",
+  "tenant": "6dbf3072-0199-4a96-b666-93fcf5109771"
+}
